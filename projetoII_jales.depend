@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1781978346 source:c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\cidade.cpp
+	"Cidade.h"
+
+1781978362 c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\cidade.h
+	<string>
+
+1782657393 source:c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"ControladorDeTransito.h"
+
+1782325196 c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\controladordetransito.h
+	<vector>
+	<string>
+	"Cidade.h"
+	"Trajeto.h"
+	"Transporte.h"
+	"Passageiro.h"
+	"Viagem.h"
+
+1781979060 c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\trajeto.h
+	"Cidade.h"
+
+1781979051 c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\transporte.h
+	<string>
+	"Cidade.h"
+
+1781979039 c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\passageiro.h
+	<string>
+	"Cidade.h"
+
+1781979238 c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\viagem.h
+	<vector>
+	"Transporte.h"
+	"Passageiro.h"
+	"Cidade.h"
+
+1781979117 source:c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\passageiro.cpp
+	"Passageiro.h"
+
+1781979055 source:c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\trajeto.cpp
+	"Trajeto.h"
+
+1781979045 source:c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\transporte.cpp
+	"Transporte.h"
+
+1782656988 source:c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\controladordetransito.cpp
+	"ControladorDeTransito.h"
+	<iostream>
+	<fstream>
+
+1782580885 source:c:\users\jales souza\desktop\tecnologia da informação - bti - imd - ufrn\3° xxxxxxx período - 2026.1\imd0030 - linguagem de programação i\atividades avaliativas\projeto ii\projetoii_jales\viagem.cpp
+	"Viagem.h"
+	<iostream>
+
